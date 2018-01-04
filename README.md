@@ -1,5 +1,5 @@
 # react-graphcool-authTemplate
-This is an authentication example based on the simple [Email & Password Authentication](https://github.com/graphcool/templates/tree/master/auth/email-password) template.
+This is an authentication example based on the simple authentication template from Graphcool.
 
 ## Getting Started
 
